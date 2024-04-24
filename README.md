@@ -1,3 +1,4 @@
+![logo](https://github.com/RohitKumar432/RohitKumar432/blob/main/ROHIT%20KUMAR.png)
 <h1 align="center">Hi 👋, I'm Rohit Kumar</h1>
 <h3 align="center">I'm passionate about learning new things</h3>
 
