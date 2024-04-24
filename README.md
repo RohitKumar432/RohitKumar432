@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://twitter.com/https://twitter.com/dnr03rohitkumar?t=rah8-dlqiocu0kjyueyzhq&s=08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/dnr03rohitkumar?t=rah8-dlqiocu0kjyueyzhq&s=08" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rohit-kumar-272b34227" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohit-kumar-272b34227" height="30" width="40" /></a>
-<a href="https://instagram.com/rohit_yaduvanshi_14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rohit_yaduvanshi_14" height="30" width="40" /></a>
+<a href="https://www.instagram.com/invites/contact/?i=id00e7ykl4m8&utm_content=njhkbe7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/invites/contact/?i=id00e7ykl4m8&utm_content=njhkbe7" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
