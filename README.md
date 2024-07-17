@@ -1,4 +1,4 @@
-![logo](https://github.com/RohitKumar432/RohitKumar432/blob/main/back.png)
+![logo](https://github.com/RohitKumar432/RohitKumar432/blob/main/Untitled%20design%20(1).jpg)
 <h1 align="center">Hi 👋, I'm Rohit Kumar</h1>
 <h3 align="center">I'm passionate about learning new things</h3>
 
